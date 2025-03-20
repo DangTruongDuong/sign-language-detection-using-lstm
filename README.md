@@ -172,6 +172,8 @@ Ma trận nhầm lẫn cho thấy các hành động như **"xin chao"** và **"
 - 🔧 Tài liệu API
 - 🤝 Hướng dẫn đóng góp
 
+## 📚 Poster
+![Poster](https://github.com/user-attachments/assets/627ca40f-2939-41d2-9cca-5c0882e45063)
 ## 📝 Bản quyền
 
 © 2025 DangTruongDuong-Nhóm 1-CNTT_16-01, Khoa Công nghệ Thông tin, Đại học Đại Nam. Mọi quyền được bảo lưu.
