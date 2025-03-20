@@ -96,7 +96,10 @@ Hệ thống được thiết kế với kiến trúc đa tầng:
    Thu_Thap_Data.py
    ```
 Hướng dẫn thu thập dữ liệu:
-
+bạn có thể thay đổi các nhãn và hành động trong file Thu_Thap_Data.py
+![image](https://github.com/user-attachments/assets/74f9acd8-e4ac-41b3-a385-76c1e1b3310a)
+actions = np.array(['null', 'xin chao', 'cam on', 'xin loi', 'hanh phuc', 'tuyet voi', 'yeu thuong', 'ghet', 'biet on', 'tam biet']) Đây là các hành động sẽ train
+no_sequences = 2 đây là số video sẽ train cho 1 hành động ( khuyến nghị >30 video cho 1 hành động)
 Chạy file Thu_Thap_Data.py bằng lệnh trên trong terminal hoặc môi trường Python.
 Khi chạy, một cửa sổ hoặc thông báo sẽ hiển thị dòng chữ "Collecting Data". Đây là giai đoạn chuẩn bị.
 Khi dòng chữ "Collecting Data" biến mất, đó là thời điểm ta cần thực hiện hành động mà bạn muốn mô hình học (ví dụ: cử chỉ tay, động tác cơ thể, v.v.).
