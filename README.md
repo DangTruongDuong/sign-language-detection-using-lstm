@@ -115,7 +115,7 @@ Không cần thao tác gì thêm, chỉ cần chờ quá trình huấn luyện h
    ```bash
    Run_With_Sound.py or Run_No_Sound
    ```
-
+ Run_With_Sound.py để chạy và phát ra âm thanh, Run_No_Sound chỉ hiển thị văn bản
 ### 📊 Đánh giá mô hình
    ```bash
    Ve_mo_So_do_mo_hinh_va_so_sanh.ipynb
