@@ -101,7 +101,7 @@ Chạy file Thu_Thap_Data.py bằng lệnh trên trong terminal hoặc môi trư
 Khi chạy, một cửa sổ hoặc thông báo sẽ hiển thị dòng chữ "Collecting Data". Đây là giai đoạn chuẩn bị.
 Khi dòng chữ "Collecting Data" biến mất, đó là thời điểm ta cần thực hiện hành động mà bạn muốn mô hình học (ví dụ: cử chỉ tay, động tác cơ thể, v.v.).
 Hiểu đơn giản: Thời gian dòng chữ xuất hiện là để bạn chuẩn bị cho động tác. Sau khi dòng chữ biến mất, hãy thực hiện hành động cần thu thập để dữ liệu được ghi lại chính xác.
-
+Video Hướng dẫn: https://drive.google.com/file/d/1bCutLeFDC_GGZ4OV5LSGRjziVsFkPDEm/view?usp=sharing
 ### 🧠 Huấn luyện mô hình
    ```bash
    huan_luyen_mo_hinh.py
