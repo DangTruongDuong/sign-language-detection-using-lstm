@@ -95,16 +95,20 @@ Hệ thống được thiết kế với kiến trúc đa tầng:
    ```bash
    Thu_Thap_Data.py
    ```
-**Thu thập dữ liệu**: Tôi đã viết hướng dẫn rõ ràng, nhấn mạnh vai trò của dòng chữ "Collecting Data" như một tín hiệu để người dùng chuẩn bị và thực hiện hành động đúng thời điểm.
+Hướng dẫn thu thập dữ liệu:
 
-
-Nếu bạn muốn bổ sung chi tiết hơn (ví dụ: cách cài đặt môi trường, xử lý lỗi thường gặp), hãy cho tôi biết nhé!
+Chạy file Thu_Thap_Data.py bằng lệnh trên trong terminal hoặc môi trường Python.
+Khi chạy, một cửa sổ hoặc thông báo sẽ hiển thị dòng chữ "Collecting Data". Đây là giai đoạn chuẩn bị.
+Khi dòng chữ "Collecting Data" biến mất, đó là thời điểm ta cần thực hiện hành động mà bạn muốn mô hình học (ví dụ: cử chỉ tay, động tác cơ thể, v.v.).
+Hiểu đơn giản: Thời gian dòng chữ xuất hiện là để bạn chuẩn bị cho động tác. Sau khi dòng chữ biến mất, hãy thực hiện hành động cần thu thập để dữ liệu được ghi lại chính xác.
 
 ### 🧠 Huấn luyện mô hình
    ```bash
    huan_luyen_mo_hinh.py
    ```
-**Huấn luyện mô hình**: Vì bạn nói chỉ cần chạy file, tôi giữ hướng dẫn đơn giản, không thêm bước phức tạp.
+Sau khi thu thập dữ liệu xong, chạy file huan_luyen_mo_hinh.py.
+Không cần thao tác gì thêm, chỉ cần chờ quá trình huấn luyện hoàn tất. Mô hình sẽ tự động xử lý dữ liệu đã thu thập để học và tối ưu hóa.
+
 ### ⚡ Khởi động 
    ```bash
    Run_With_Sound.py or Run_No_Sound
