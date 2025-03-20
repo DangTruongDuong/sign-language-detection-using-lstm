@@ -106,6 +106,8 @@ Hiểu đơn giản: Thời gian dòng chữ xuất hiện là để bạn chu�
    ```bash
    huan_luyen_mo_hinh.py
    ```
+Hướng dẫn thu thập dữ liệu:
+
 Sau khi thu thập dữ liệu xong, chạy file huan_luyen_mo_hinh.py.
 Không cần thao tác gì thêm, chỉ cần chờ quá trình huấn luyện hoàn tất. Mô hình sẽ tự động xử lý dữ liệu đã thu thập để học và tối ưu hóa.
 
