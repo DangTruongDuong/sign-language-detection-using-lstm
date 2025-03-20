@@ -74,7 +74,7 @@ Hệ thống được thiết kế với kiến trúc đa tầng:
 
 3. **Cài đặt các thư viện**
    ```bash
-   pip install opencv-python numpy mediapipe tensorflow scikit-learn pygame Pillow
+   pip install -r requirements.txt
    ```
 
 4. **Chuẩn bị thư mục dữ liệu và âm thanh**
