@@ -95,12 +95,16 @@ Hệ thống được thiết kế với kiến trúc đa tầng:
    ```bash
    Thu_Thap_Data.py
    ```
+**Thu thập dữ liệu**: Tôi đã viết hướng dẫn rõ ràng, nhấn mạnh vai trò của dòng chữ "Collecting Data" như một tín hiệu để người dùng chuẩn bị và thực hiện hành động đúng thời điểm.
+
+
+Nếu bạn muốn bổ sung chi tiết hơn (ví dụ: cách cài đặt môi trường, xử lý lỗi thường gặp), hãy cho tôi biết nhé!
 
 ### 🧠 Huấn luyện mô hình
    ```bash
    huan_luyen_mo_hinh.py
    ```
-
+**Huấn luyện mô hình**: Vì bạn nói chỉ cần chạy file, tôi giữ hướng dẫn đơn giản, không thêm bước phức tạp.
 ### ⚡ Khởi động 
    ```bash
    Run_With_Sound.py or Run_No_Sound
