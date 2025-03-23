@@ -164,8 +164,6 @@ SignLSTM vượt trội với độ chính xác **90%**, trong khi các mô hìn
 </p>
 Ma trận nhầm lẫn cho thấy các hành động như **"xin chao"** và **"cam on"** có tỷ lệ nhầm lẫn cao nhất, do sự tương đồng trong cử chỉ tay.
 
-https://github.com/DangTruongDuong/sign-language-detection-using-lstm/blob/master/10%20gif/chao.gif
-
  ## 📚 Tài liệu hướng dẫn
 - 📖 Hướng dẫn cài đặt
 - 👥 Hướng dẫn sử dụng
