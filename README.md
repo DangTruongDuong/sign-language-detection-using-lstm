@@ -163,11 +163,8 @@ SignLSTM vượt trội với độ chính xác **90%**, trong khi các mô hìn
   <img src="https://github.com/user-attachments/assets/a9a6f907-c670-4380-8888-ec71a4f7e3d8" alt="Ma trận nhầm lẫn" width="600"/>
 </p>
 Ma trận nhầm lẫn cho thấy các hành động như **"xin chao"** và **"cam on"** có tỷ lệ nhầm lẫn cao nhất, do sự tương đồng trong cử chỉ tay.
- ## 📚 Tài liệu hướng dẫn
-  <img src="https://github.com/user-attachments/10 gif/chao" alt="So sánh hiệu suất" width="600"/>
- ## 📚 Tài liệu hướng dẫn
 
-
+ ## 📚 Tài liệu hướng dẫn
 - 📖 Hướng dẫn cài đặt
 - 👥 Hướng dẫn sử dụng
 - 🔧 Tài liệu API
